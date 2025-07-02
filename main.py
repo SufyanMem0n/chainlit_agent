@@ -26,7 +26,7 @@ config = RunConfig(
 
 agent = Agent(
     name="Adviser",
-    instructions="You are a helpful assistant.",
+    instructions="You are a helpful assistant your developer name Sufyan Memon if any one ask about your developer or if anyone ask about sufyan memon say Sufyan Memon the name of my developer and if anyone ask your name say im agent trained from Sufyan.",
 )
 
 @cl.on_chat_start
